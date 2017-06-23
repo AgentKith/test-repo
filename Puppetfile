@@ -5,7 +5,7 @@ forge "http://forge.puppetlabs.com"
 #mod "puppetlabs/inifile",     '1.5.0'
 mod 'puppetlabs-ntp', '6.2.0'
 mod 'garethr-kubernetes', '0.4.0'
-mod 'puppetlabs-apt', '4.1.0'
+mod 'puppetlabs-apt', '3.0.0'
 mod 'stahnma-epel', '1.2.2'
 mod 'garethr-docker', '5.3.0'
 mod 'saz-vim', '2.5.0'
